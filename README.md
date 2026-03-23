@@ -2,6 +2,7 @@
 
 - .NET 8 SDK
 - Microsoft.Extensions.DependencyInjection
+- Xunit
 
 ## Запуск
 
